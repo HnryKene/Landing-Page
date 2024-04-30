@@ -27,3 +27,83 @@ body {
     color:white;
     gap:15px;
 }
+
+.main-text{
+    margin: 50px -50px 50px 200px;
+    color:#F9FAF8;
+}
+
+.awesome{
+    font-size:36px;
+}
+
+.awesome-secondary{
+    font-size:18px;
+    color:#E5E7EB;
+}
+
+button {
+    cursor:pointer;
+    background-color:#3882F6;
+    color:white;
+    border-radius: 8px;
+    border: 1px solid royalblue;
+}
+
+.sign-up-button{
+    padding: 8px 30px 8px 30px;
+    font-size:20px;
+    font-weight:bold;
+}
+
+.website-image{
+    width:400px;
+    height:300px;
+    margin:-200px 0px 50px 700px;
+}
+
+.box{
+    border:4px solid#3882F6;
+    height:150px;
+    width:150px;
+    border-radius:10px;
+    background:white;
+}
+
+.texte{
+    display:flex;
+    justify-content:center;
+    margin:60px 0px 40px 0px;
+    font-weight:900;
+    font-size:30px;
+    color: #1F2937;
+}
+
+.container{
+    display:flex;
+    justify-content:center;
+    gap:12px;
+}
+
+.text{
+    color:#a4a6a9;
+    margin-bottom: 120px;
+}
+
+.info{
+    max-width:200px;
+}
+
+.quote-section{
+    background-color:#E5E7EB;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    padding:80px; 
+}
+
+.quote-text{
+    font-size:36px;
+    color:#1F2937;
+    font-family:'light-italic'
+}
